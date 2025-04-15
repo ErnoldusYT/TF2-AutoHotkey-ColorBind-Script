@@ -18,9 +18,9 @@ After you've read the basics and understand how the color text works, here's the
     >Ex: "XXXXXXXFBECCB has found: XXXXXXXFFD800The Third Degree"
   
 ## Setting up the AutoHotkey Colored Chatbinds Script is very simple.
-1. Download [AutoHotkey](www.autohotkey.com)
+1. Download [AutoHotkey](https://www.autohotkey.com)
 2. Download any of my themed pre-made scripts, or use the clean template to make your own.
-3. (Optional) Download & use [Notepad++](notepad-plus-plus.org) (not the normal notepad) to edit the scripts.
+3. (Optional) Download & use [Notepad++](https://notepad-plus-plus.org) (not the normal notepad) to edit the scripts.
 4. Double click the .ahk file to run it, and you are ready to go!
 
 ## Using the AutoHotkey script requires a few steps :
@@ -46,4 +46,4 @@ It copies the message to your clipboard just like Ctrl+C
 * Numpad / - Overwrite clipboard with whatever has been previously saved
 
 ## 💬 Need Help?
-If you get stuck or just wanna say hi, join [Ernoldus' Discord](discord.com) for support and script help.
+If you get stuck or just wanna say hi, join [Ernoldus' Discord](https://discord.gg/Zy9hqxPTBg) for support and script help.
